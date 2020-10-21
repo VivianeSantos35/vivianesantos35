@@ -1,0 +1,22 @@
+10.1.1.1/receita.zip
+
+Criar um site de receitas. Dividir as receitas por categorias.
+
+Largura máxima: 960px.
+
+A logo está no arquivo zip: "Gourmet - Receitas Online"
+
+Procurar script(s) em javascript para enriquecer o layout do site.
+
+Criar o site inteiro e hospedar antes do fim da aula de amanhã.
+
+...............................
+
+ICONES
+www.iconfinder.com
+
+TEMPLATES
+www.templatemonster.com
+
+JAVASCRIPT
+www.dynamicdrive.com.
