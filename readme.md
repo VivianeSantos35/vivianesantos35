@@ -24,7 +24,6 @@
 <img src="https://logodix.com/logo/30270.png" target="_blank" width="40" height="40"></a>
 </div>
 
-
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div>
