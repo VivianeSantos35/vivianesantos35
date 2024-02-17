@@ -1,7 +1,7 @@
 ## Olá pessoal 👋
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e Javascript
-- 👯 Estou procurando colaborar em uma ONG chamada DevsFree
+- 👯 Estou estagiando em uma Startup chamada Startech Soluçôes Inovadoras e Tecnológicas
 - 🤔 Estou procurando ajuda com Oportunidades de Emprego
 - 📫 Como entrar em contato comigo: [vivianesantos](vivyane-santos@hotmail.com); [Linkedin](https://www.linkedin.com/in/vivianesantos35/)
 - 😄 Pronomes: Ela/Dela
